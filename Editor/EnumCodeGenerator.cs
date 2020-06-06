@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using System.Text;
 
-namespace UniEnumCodeGenerator
+namespace Kogane
 {
 	/// <summary>
 	/// 列挙型のコードを生成するクラス

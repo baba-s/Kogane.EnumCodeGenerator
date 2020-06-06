@@ -1,4 +1,4 @@
-﻿namespace UniEnumCodeGenerator
+﻿namespace Kogane
 {
 	/// <summary>
 	/// 列挙型のコードを生成する時のオプションを管理するクラス

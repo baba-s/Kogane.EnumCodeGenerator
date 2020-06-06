@@ -1,4 +1,4 @@
-# Uni Enum Code Generator
+﻿# Uni Enum Code Generator
 
 列挙型のコードを生成するエディタ拡張
 
@@ -7,7 +7,7 @@
 ### JobType 列挙型のコードを生成するエディタ拡張
 
 ```cs
-using UniEnumCodeGenerator;
+using Kogane;
 using UnityEditor;
 
 public class Example
