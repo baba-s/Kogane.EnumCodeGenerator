@@ -1,4 +1,4 @@
-﻿# Uni Enum Code Generator
+﻿# Kogane Enum Code Generator
 
 列挙型のコードを生成するエディタ拡張
 

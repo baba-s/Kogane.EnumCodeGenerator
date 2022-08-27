@@ -1,5 +1,5 @@
 {
-    "name": "UniEnumCodeGenerator",
+    "name": "Kogane.EnumCodeGenerator",
     "references": [],
     "includePlatforms": [
         "Editor"
